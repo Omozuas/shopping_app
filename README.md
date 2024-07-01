@@ -44,7 +44,7 @@ Follow these steps to set up the project locally:
 3. **Checkout Page**
 ![Checkout Page](assets/screenshots/checkoutScreen.png)
 
-- **APK Download:** Provide a link to download the APK.
+- **APK Download:** (https://appetize.io/app/iaoqrikxiv72iyaix45krrj5ey?device=pixel7&osVersion=13.0).
 - **Contact Information:** 
 - **Name**:`Omozua Judah ` 
 - **Email**:`iyanuomozua.email@example.` 
